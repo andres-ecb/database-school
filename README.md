@@ -25,3 +25,7 @@ database-school/
 
 # Notas adicionales
 Todas las consultas están comentadas para facilitar su comprensión.
+
+# Ejecución
+Al ejecutar el archivo CreacionBDDSchool.sql, se creará la base de datos school, todas las tablas necesarias, y los datos de ejemplo. Después, al ejecutar ConsultasBDDSchool.sql, se ejecutarán, a su vez, las consultas allí definidas, lo que permitirá analizar resultados de acuerdo con los datos de ejemplo almacenados.
+Los requisitos para la ejecución son: MySQL Workbench.
