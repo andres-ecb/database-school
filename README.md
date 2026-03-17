@@ -1,3 +1,4 @@
+# Contenido
 Este repositorio consiste en el diseño y explotación de una base de datos llamada *school*. Incluye la creación completa del esquema (tablas, relaciones y datos de ejemplo) y una colección de 28 consultas SQL que abordan distintos niveles de complejidad, desde consultas básicas hasta subconsultas, funciones agregadas y lógica condicional.
 
 # Tecnologías Utilizadas
